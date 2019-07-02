@@ -68,23 +68,19 @@ This package has been developed by
 * Avik Pal (@avik-pal)
 * Aniket Das (@Aniket1998)
 
-We appreciate all contributors. For a full list of contributors go [here](https://github.com/torchgan/torchgan/graphs/contributors).
-
-## Contributors
-
 This project exists thanks to all the people who contribute. 
 
 <a href="https://github.com/torchgan/torchgan/graphs/contributors"><img src="https://opencollective.com/torchgan/contributors.svg?width=890&button=false" /></a>
 
 
-## Backers
+### Backers
 
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/torchgan#backer)]
 
 <a href="https://opencollective.com/torchgan#backers" target="_blank"><img src="https://opencollective.com/torchgan/backers.svg?width=890"></a>
 
 
-## Sponsors
+### Sponsors
 
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/torchgan#sponsor)]
 
